@@ -2,7 +2,7 @@
   "name": "movies-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yegor-sytnyk.github.io/movies-list",
+  "homepage": "http://dark-gray.github.io/movies-list",
   "devDependencies": {
     "gh-pages": "^0.11.0"
   },
